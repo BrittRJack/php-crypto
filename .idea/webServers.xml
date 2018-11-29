@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0782d1c5-c352-4ed0-8680-f83e8f8dccba" name="php-crypto" url="https://bootcamp-coders.cnm.edu/~bjack2/php-crypto">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/bjack2/public_html/php-crypto" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
